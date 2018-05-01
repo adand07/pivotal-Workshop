@@ -4,7 +4,7 @@
 
 Spring Boot includes a number of additional features to help you monitor and manage your application when it’s pushed to production. These features are added by adding _spring-boot-starter-actuator_ to the classpath.  Our initial project setup already included it as a dependency.
 
-. Verify the Spring Boot Actuator dependency the in following file: */cloud-native-spring/build.gradle* You should see the following dependency in the list:
+. Verify the Spring Boot Actuator dependency the in following file: */cloud-native-spring/pom.xml* You should see the following dependency in the list:
 +
 [source,groovy]
 ---------------------------------------------------------------------
